@@ -1,0 +1,22 @@
+{
+  "status": [
+    {
+      "id": 1,
+      "color": 1,
+      "status": true,
+      "value": 100
+    },
+    {
+      "id": 2,
+      "color": 2,
+      "status": true,
+      "value": 75
+    },
+    {
+      "id": 3,
+      "color": 3,
+      "status": true,
+      "value": 50
+    }
+  ]
+}
